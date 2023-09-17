@@ -34,7 +34,7 @@ Welcome to **Complete Timer**, your personal time management assistant designed 
 
 1. **Install Dependencies**: Quick and easy installation of required libraries with a simple `pip` command.
 
-2. **Run the Application**: Launch the application effortlessly by running the `complete_timer.py` script.
+2. **Run the Application**: Launch the application effortlessly by running the `login.py` script.
 
 3. **Select Timer Category**: Choose your activity category - Study, Meditation, Cooking, or Workout.
 
