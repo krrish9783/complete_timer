@@ -3,6 +3,16 @@
 Welcome to **Complete Timer**, your personal time management assistant designed to supercharge your productivity and relaxation. With tailored timers, delightful soundscapes, and customizable alarms, we help you conquer tasks and find inner peace.
 
 ---
+## home
+![Screenshot of Windows](img/home.png)
+## study
+![Screenshot of Windows](img/study.png)
+## cook
+![Screenshot of Windows](img/cook.png)
+## Workout
+![Screenshot of Windows](img/workout.png)
+## Meditation
+![Screenshot of Windows](img/med.png)
 
 ## Features That Empower You
 
